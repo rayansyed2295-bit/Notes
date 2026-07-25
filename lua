@@ -1,2 +1,0 @@
-welcome
-not for sale
