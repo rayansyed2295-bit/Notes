@@ -30,5 +30,10 @@
       "expiry": "2026-11-15",
       "active": true
     }
+    "C3FE-28F1-8070": {
+      "name": "scp",
+      "expiry": "2026-11-15",
+      "active": true
+    }
   }
 }
