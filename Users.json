@@ -1,6 +1,6 @@
 {
   "users": {
-    "74DA-4BC4-C214": {
+    "74DA-4BC2-C214": {
       "name": "RAYAN",
       "expiry": "2026-09-09",
       "active": true
@@ -10,7 +10,7 @@
       "expiry": "2026-10-15",
       "active": true
     },
-        "0CA0-BD7C-70C0": {
+    "0CA0-BD7C-70C0": {
       "name": "cnc",
       "expiry": "2026-09-15",
       "active": true
@@ -29,7 +29,7 @@
       "name": "chanel",
       "expiry": "2026-11-15",
       "active": true
-    }
+    },
     "C3FE-28F1-8070": {
       "name": "scp",
       "expiry": "2026-11-15",
