@@ -24,6 +24,16 @@
     "active": true,
     "device": null
   },
+"AMOL": {
+    "expiry": "2026-11-30T23:59:59",
+    "active": true,
+    "device": null
+  },
+"GGMR7": {
+    "expiry": "2026-11-30T23:59:59",
+    "active": true,
+    "device": null
+  },
 "ROMENA": {
     "expiry": "2026-11-30T23:59:59",
     "active": true,
