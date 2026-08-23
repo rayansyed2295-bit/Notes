@@ -49,6 +49,11 @@
     "active": true,
     "device": null
   },
+"testayan1": {
+    "expiry": "2026-11-30T23:59:59",
+    "active": true,
+    "device": null
+  },
 "ERIMA": {
     "expiry": "2026-11-30T23:59:59",
     "active": true,
